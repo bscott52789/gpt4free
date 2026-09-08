@@ -3,7 +3,8 @@ dist
 __pycache__
 generated_media
 site-packages
-projects
+projects/*
+!projects/pool/
 node_modules
 g4f.egg-info
 models/models.json
