@@ -28,17 +28,29 @@ Photos: `pump-nameplate.jpg`, `pump-superflo-vs-keypad.jpg`, `pump-basket-lid.jp
 | Lightning LED | Power present |
 
 On 2026‑09‑08: Speed 1 active at 3200 rpm, running, no external control.
+Keypad walk‑through video showed:
+
+| Readout | Value |
+|---|---|
+| Watts at 3200 rpm | **1186 W** (1174–1189 W as speed was nudged 3190–3220) |
+| Time | 10:53, matches real time, so schedules will fire when expected |
+| Duration (Speed 1) | 2:07 displayed. If that is 2 h 07 min per day, the pump is badly under‑running; a salt pool needs 8–12 h. Verify and reprogram. |
+
+Programming a speed on the SuperFlo VS: press and hold the speed button until the
+display flashes, use `+`/`−` to set rpm, press the speed button again to advance to
+start time, again for duration, then `Start/Stop` to save. The lid decal has the full
+sequence.
 
 ## Energy math
 
-Pump power follows the cube of speed. Half the rpm ≈ one eighth the watts.
+Pump power follows the cube of speed. Half the rpm ≈ one eighth the watts. Scaled from the measured 1186 W at 3200 rpm:
 
 | Speed | Approx. watts | Cost per 10 hrs at $0.14/kWh |
 |---|---|---|
-| 3200 rpm | ~1,300 | ~$1.80 |
-| 2600 rpm | ~700 | ~$1.00 |
-| 2200 rpm | ~430 | ~$0.60 |
-| 1800 rpm | ~250 | ~$0.35 |
+| 3200 rpm | 1,186 measured | ~$1.66 |
+| 2600 rpm | ~640 | ~$0.90 |
+| 2200 rpm | ~390 | ~$0.55 |
+| 1800 rpm | ~210 | ~$0.30 |
 
 Press `Display` until Watts lights to read the real number.
 

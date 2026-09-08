@@ -39,10 +39,34 @@ Source: 46‑second walk‑around video, 2026‑09‑08. Frames saved in `photos
 | Light make and model | Bulb/LED replacement and GFCI protection check |
 | Autofill or overflow present? | Explains water‑level changes |
 
-## Volume estimate
+## Dimensions and volume
 
-Rectangle volume in gallons ≈ length × width × average depth × 7.48.
-Example: 16 × 36 × 5.0 × 7.48 ≈ 21,500 gal. Replace with measured numbers.
+Owner recollection (2026‑09‑08): 16x32, 18x32, or 18x36 ft; 3 ft shallow end to 6 ft
+deep end, not counting the three entry steps and the tanning ledge.
+
+Rectangle volume ≈ length × width × average depth × 7.48. Average depth with a 3‑to‑6
+slope is 4.5 ft. Steps, bench, and tanning ledge displace water, so knock roughly 10%
+off the rectangle number.
+
+| Candidate | Rectangle gal | With ~10% off for steps/ledge/bench |
+|---|---|---|
+| 16 x 32 | 17,200 | **~15,500** |
+| 18 x 32 | 19,400 | **~17,500** |
+| 18 x 36 | 21,800 | **~19,600** |
+
+**Working number: 17,500 gal** until measured. Chemical doses in
+`08-water-chemistry.md` are per 10,000 gal, so multiply by 1.75.
+
+How to settle it in five minutes: tape from inside edge of coping to inside edge of
+coping, both directions, at the waterline. Then check the depth at the deep‑end drains
+with the pole.
+
+**A useful tell on construction:** one‑piece fiberglass shells are almost never wider
+than 16 ft because of highway transport limits. If the tape says 18 ft wide, the pool
+is very likely a vinyl liner with liner‑covered steps and ledge, not fiberglass. That
+changes the care rules: a liner must never be drained, is punctured by sharp objects
+and by chlorine pucks lying on the floor, and should have its water kept balanced to
+avoid wrinkles and bleaching. If it says 16 ft, the fiberglass notes below apply.
 
 ## Fiberglass shell care (if confirmed)
 

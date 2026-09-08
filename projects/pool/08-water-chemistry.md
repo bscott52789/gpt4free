@@ -33,7 +33,7 @@
 | Salt up 100 ppm | ~8.3 lb pool salt |
 | CH up 10 ppm | ~1.25 lb calcium chloride |
 
-Scale by your actual volume once measured.
+Working volume is ~17,500 gal, so multiply each dose by **1.75** until the pool is measured (`01-pool-structure.md`).
 
 ## The salt‑pool pH cycle
 
