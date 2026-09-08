@@ -43,7 +43,7 @@ the salt system; adjust brands to what is in stock.
 | Skimmer basket and pump basket | They crack |
 | Pressure gauge, 0–60 psi, 1/4" NPT | They die; keep a spare |
 | Winter plugs and a gizmo for the skimmer | For closing |
-| Telescoping pole, leaf rake, wall brush (nylon), vinyl‑liner vacuum head (brush type, no wheels), hose | Weekly tools |
+| Telescoping pole, leaf net, wall brush: **already owned, on the fence hooks**. Still to get: a deep leaf rake (bag style) for fall, and a vinyl‑liner vacuum head plus hose for spot cleaning when the robot is charging | Weekly tools |
 | Silicone lube, Teflon tape, spare unions | |
 
 ## Larger buys, in priority order

@@ -19,6 +19,8 @@ Add a row for every reading and service event. Newest at the top.
 - [x] Construction: vinyl liner, confirmed by close‑up photos 2026‑09‑08
 - [ ] Record liner brand, pattern, and mil thickness from the builder invoice
 - [x] Deep end: 6 ft 0 in at normal level, swings 5'10"–6'3" with weather
+- [x] Shallow end: ~3 ft, confirmed waist deep on a 5'11" owner
+- [x] Skimmer water line on 2026‑09‑08: just above mid‑opening, correct
 - [ ] Verify Speed 1 daily duration; 2:07 on the display would be far too short
 - [ ] Shell manufacturer and warranty terms (draining rules, approved chemicals)
 - [ ] Number of skimmers (at least 2 seen) and returns (at least 1 seen)

@@ -22,8 +22,12 @@ Source: 46‑second walk‑around video, 2026‑09‑08. Frames saved in `photos
   and note which is closest to the equipment pad.
 - **Light**: a bright spot on the deep‑end wall in several frames suggests one
   underwater light. Its circuit is the 20 A single‑pole "Pool Lts + Rec" breaker.
-- **Coping and deck**: light travertine‑look coping pavers with a gray paver deck.
+- **Coping and deck**: light travertine‑look bullnose coping over a gray paver deck.
   Pavers on sand will shift slightly over time; keep polymeric sand in the joints.
+- **Tool storage**: telescoping pole, leaf net, and wall brush hang on hooks on the
+  fence (`tools-pole-net-brush-on-fence.jpg`). Aluminum poles left in the sun and
+  rain corrode at the cam locks; a squirt of silicone spray on the locks each spring
+  keeps them from seizing.
 - **Fence**: black aluminum picket fence, wooded lot beyond. Pine needles and pollen
   are the main debris load.
 
@@ -61,9 +65,26 @@ Fittings counted so far:
 
 ## Depth and water level
 
-Owner measurement: standing flat‑footed at the deepest point the water is right at
-the top of the head, so **~6 ft 0 in** at normal level. The level swings with
-weather from about **5 ft 10 in to 6 ft 3 in**.
+Owner is 5 ft 11 in, 200 lb, which makes a handy depth gauge:
+- **Deep end**: flat‑footed, water at the top of the head, so **~6 ft 0 in** at normal
+  level. The level swings with weather from about **5 ft 10 in to 6 ft 3 in**.
+- **Shallow end**: waist deep (`pool-shallow-end-waterline-view.jpg`, taken from in
+  the water). Waist height on a 5 ft 11 in person is about 3 ft 4 in, which lines up
+  with the stated **3 ft** shallow end plus a few inches of level.
+
+For what it's worth, a 200 lb swimmer displaces about 24 gallons, which is a
+sixteenth of an inch of pool level. Bathers do not move the level; rain and
+evaporation do.
+
+### Skimmer water line
+
+`skimmer-mouth-and-return-closeup.jpg` shows the skimmer faceplate with the water
+sitting a little above the midpoint of the opening. That is the right zone. If the
+water reaches the top screws of the faceplate the skimmer stops pulling surface film;
+if it drops to the bottom of the opening the pump starts drawing air. The return
+eyeball sits about a foot along the wall from this skimmer; aim eyeballs slightly
+down and all in the same rotational direction so debris circulates toward the
+skimmers instead of collecting in a dead corner.
 
 Every inch of water level on an 18 x 36 pool is about **400 gallons**
 (18 × 36 × 1/12 × 7.48). So the 5 inch swing is roughly 2,000 gallons, about 10% of
