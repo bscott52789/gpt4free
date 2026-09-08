@@ -14,9 +14,9 @@ service event so the history stays useful.
 
 | Item | Value |
 |---|---|
-| Pool type | In‑ground, rectangular, smooth light‑blue finish. At 18 ft wide this is most likely a **vinyl liner** pool rather than fiberglass (see `01-pool-structure.md`); confirm with builder docs |
-| Size (owner count) | **18 x 36 ft**, 3 ft shallow to 6 ft deep, plus 3 entry steps and a tanning ledge |
-| Working volume | **~19,500 gal** (21,800 gal rectangle less ~10% for steps, bench, and ledge) |
+| Pool type | In‑ground, rectangular, **vinyl liner** (printed border band, cove, hopper deep end), 2 main drains, 2+ skimmers, 1 light |
+| Size (owner count) | **18 x 36 ft**, 3 ft shallow to 6 ft deep at normal level (swings 5'10" to 6'3" with weather), plus 3 entry steps and a tanning ledge |
+| Working volume | **~19,500 gal**; each inch of level ≈ 400 gal |
 | Sanitizer | Salt chlorine generator, Pentair iChlor, ideal salt 3600 ppm |
 | Heater | Pentair UltraTemp 110 heat pump, 110,000 BTU/hr, built 2026‑04‑18 |
 | Pump | Pentair SuperFlo VS, 230 V, 450–3450 rpm |

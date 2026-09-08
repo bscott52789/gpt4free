@@ -14,6 +14,13 @@
 | Phosphates | < 500 ppb | Algae food; matters only if algae is a recurring fight |
 | Metals (Fe, Cu) | 0 | Test fill water once |
 
+## Rain and dilution
+
+Each inch of level is ~400 gal, about 2% of the pool. A 5 inch rain event replaces
+~10% of the water and drops salt, CYA, and calcium by the same share. Retest salt and
+CYA after any storm that raises the level more than 2 inches, and after draining to
+WASTE to bring the level back down.
+
 ## Testing
 
 - Weekly minimum in season: FC, pH. Monthly: TA, CH, CYA, salt.

@@ -5,9 +5,8 @@ Source: 46‑second walk‑around video, 2026‑09‑08. Frames saved in `photos
 ## What the video shows
 
 - **Shape**: 18 x 36 ft rectangle with a wide shallow shelf at one end, three entry
-  steps, and a bench along one long wall. The smooth, uniformly colored light‑blue
-  surface looked like fiberglass at first glance, but the 18 ft width points to a
-  **vinyl liner** (see below). Liner seams are hard to see in a solid light pattern.
+  steps, and a bench along one long wall. **Vinyl liner** construction, confirmed by
+  the close‑up photos below.
 - **Entry**: corner entry steps with a stainless handrail on the shallow end
   (`pool-entry-steps-handrail.jpg`, `pool-corner-steps.jpg`).
 - **Shallow shelf / bench**: a broad shelf across the shallow end and a molded bench
@@ -37,6 +36,49 @@ Source: 46‑second walk‑around video, 2026‑09‑08. Frames saved in `photos
 | Light make and model | Bulb/LED replacement and GFCI protection check |
 | Autofill or overflow present? | Explains water‑level changes |
 
+## Close‑up photos (2026‑09‑08, second set)
+
+`pool-wall-border-and-skimmer.jpg`, `pool-deep-end-hopper-drains.jpg`,
+`pool-deep-end-light-and-bench.jpg`, `pool-return-eyeball-and-skimmer.jpg`.
+
+These confirm **vinyl liner** construction:
+- A printed dark‑blue "tile" border band runs along the top of the wall with a
+  lighter mottled blue pattern below it. That two‑tone print is a liner, full stop.
+  Fiberglass and plaster don't do that.
+- The wall meets the floor with a soft radiused cove, and the deep end is a
+  **hopper**: the floor breaks and slopes down from all sides to the two drains.
+- A white liner track (bead receiver) is visible under the coping in the corners.
+- The tanning ledge and step area show a gray granular texture, either a textured
+  liner pattern or thermoplastic steps under the liner.
+
+Fittings counted so far:
+- **Skimmers: at least two**, rectangular mouths in the wall on the long side and in
+  the corner near the ledge.
+- **Returns**: an eyeball fitting in the wall near the deck skimmer lid; expect two to
+  four total.
+- **Light**: one, deep‑end wall.
+- **Main drains**: two, deep‑end hopper floor.
+
+## Depth and water level
+
+Owner measurement: standing flat‑footed at the deepest point the water is right at
+the top of the head, so **~6 ft 0 in** at normal level. The level swings with
+weather from about **5 ft 10 in to 6 ft 3 in**.
+
+Every inch of water level on an 18 x 36 pool is about **400 gallons**
+(18 × 36 × 1/12 × 7.48). So the 5 inch swing is roughly 2,000 gallons, about 10% of
+the pool. That matters in two ways:
+
+1. **Skimmer performance.** The skimmer mouth is only about 6 inches tall. Keep the
+   level between one‑third and one‑half up the opening. Too high and the skimmer can't
+   pull the surface film; too low and it gulps air, the pump loses prime, and the
+   SuperFlo runs dry. After a big rain, drop the level with the multiport on WASTE.
+   In a dry stretch, top off with the hose before it gets near the skimmer bottom.
+2. **Salt and stabilizer dilution.** Five inches of rain replaces 10% of the water.
+   Expect salt to fall from 3350 to about 3000 ppm and CYA to fall a similar share
+   after a wet week. Retest both after any storm that raises the level more than a
+   couple of inches.
+
 ## Dimensions and volume
 
 Owner's count (2026‑09‑08): **18 x 36 ft**, 3 ft shallow end to 6 ft deep end, not
@@ -48,21 +90,21 @@ off the rectangle number.
 
 | Calculation | Gallons |
 |---|---|
-| 18 × 36 × 4.5 × 7.48 | 21,800 |
-| Less ~10% for steps, bench, tanning ledge | **~19,500 working number** |
+| 18 × 36 × 4.5 × 7.48 (flat slope) | 21,800 |
+| Less ~10% for steps, bench, ledge, and hopper side slopes | **~19,500 working number** |
+| Per inch of water level | ~400 |
 
 Chemical doses in `08-water-chemistry.md` are per 10,000 gal, so multiply by **1.95**
 (call it 2 for rough work). Heat‑up math in `03-heat-pump.md` uses 20,000 gal, which
 is close enough.
 
-**What 18 ft wide says about construction:** one‑piece fiberglass shells are almost
-never wider than 16 ft because of highway transport limits. At 18 x 36, the classic
-vinyl‑liner size, this pool is very likely a **vinyl liner** over steel or polymer
-walls, with liner‑covered steps, bench, and tanning ledge. That explains the uniform
-light‑blue color and the soft look of the shelf edges in the video. Confirm with the
-builder paperwork; the liner brand, pattern, and mil thickness will be on the invoice.
+**Construction: vinyl liner, confirmed by the close‑up photos** (printed border band,
+cove, hopper, bead track). 18 x 36 is also the classic liner size and beyond what a
+one‑piece fiberglass shell can be trucked at. The builder invoice will give the liner
+brand, pattern name, and mil thickness, which you need for a matching patch kit and
+a replacement quote later.
 
-## Vinyl liner care (most likely construction)
+## Vinyl liner care
 
 - **Never drain it.** A liner shrinks and can tear within hours of being exposed, and
   groundwater on this wooded lot can float the floor. Lowering below the skimmer for
@@ -79,8 +121,4 @@ builder paperwork; the liner brand, pattern, and mil thickness will be on the in
 - Steps, bench, and ledge are formed by the wall structure under the liner; keep
   weight off the shelf edges when climbing out to avoid stressing the seams.
 
-## If it turns out to be fiberglass
 
-- Never drain the shell without a professional.
-- Keep calcium hardness 150–300 ppm and pH 7.2–7.6 to protect gelcoat.
-- Nylon brush only, no abrasive cleaners.

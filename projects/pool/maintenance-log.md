@@ -15,10 +15,12 @@ Add a row for every reading and service event. Newest at the top.
 ## Open questions to resolve
 
 - [x] Pool dimensions: 18 x 36 ft, 3–6 ft deep (owner count, 2026‑09‑08); working volume 19,500 gal
-- [ ] Confirm vinyl liner vs fiberglass from builder docs (18 ft wide strongly suggests liner); record liner brand and mil
+- [x] Construction: vinyl liner, confirmed by close‑up photos 2026‑09‑08
+- [ ] Record liner brand, pattern, and mil thickness from the builder invoice
+- [x] Deep end: 6 ft 0 in at normal level, swings 5'10"–6'3" with weather
 - [ ] Verify Speed 1 daily duration; 2:07 on the display would be far too short
 - [ ] Shell manufacturer and warranty terms (draining rules, approved chemicals)
-- [ ] Number of skimmers and returns
+- [ ] Number of skimmers (at least 2 seen) and returns (at least 1 seen)
 - [ ] Underwater light make/model and whether it is low‑voltage
 - [ ] House‑panel breaker size feeding the subpanel, and feeder wire size
 - [ ] Confirm the small gray wall box is the iChlor power center
