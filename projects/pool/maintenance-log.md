@@ -23,7 +23,9 @@ Add a row for every reading and service event. Newest at the top.
 - [x] Skimmer water line on 2026‑09‑08: just above mid‑opening, correct
 - [ ] Verify Speed 1 daily duration; 2:07 on the display would be far too short
 - [ ] Shell manufacturer and warranty terms (draining rules, approved chemicals)
-- [ ] Number of skimmers (at least 2 seen) and returns (at least 1 seen)
+- [ ] Number of skimmers (at least 2 seen, shallow‑end one is Hayward wide‑mouth) and returns (at least 1 seen)
+- [ ] Check the shallow‑end skimmer for a weir door; none visible on 2026‑09‑08
+- [ ] Confirm skimmer model number inside the body for basket and weir parts
 - [ ] Underwater light make/model and whether it is low‑voltage
 - [ ] House‑panel breaker size feeding the subpanel, and feeder wire size
 - [ ] Confirm the small gray wall box is the iChlor power center

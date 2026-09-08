@@ -40,7 +40,8 @@ the salt system; adjust brands to what is in stock.
 | Pump lid o‑ring (Pentair SuperFlo lid o‑ring) | Most common air‑leak part |
 | Shaft seal kit for SuperFlo | Cheap insurance |
 | Multiport spider gasket | If water bypasses to waste |
-| Skimmer basket and pump basket | They crack |
+| Skimmer basket (Hayward SPX1082CA family, confirm) and pump basket | They crack |
+| Skimmer weir door for the Hayward wide‑mouth body | Shallow‑end skimmer appears to be missing its weir |
 | Pressure gauge, 0–60 psi, 1/4" NPT | They die; keep a spare |
 | Winter plugs and a gizmo for the skimmer | For closing |
 | Telescoping pole, leaf net, wall brush: **already owned, on the fence hooks**. Still to get: a deep leaf rake (bag style) for fall, and a vinyl‑liner vacuum head plus hose for spot cleaning when the robot is charging | Weekly tools |

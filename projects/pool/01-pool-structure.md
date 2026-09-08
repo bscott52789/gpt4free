@@ -76,6 +76,26 @@ For what it's worth, a 200 lb swimmer displaces about 24 gallons, which is a
 sixteenth of an inch of pool level. Bathers do not move the level; rain and
 evaporation do.
 
+### Shallow‑end skimmer
+
+Photos: `skimmer-shallow-end-mouth.jpg`, `skimmer-shallow-end-lid-hayward.jpg`,
+`skimmer-shallow-end-basket.jpg`.
+
+- **Make**: Hayward, wide‑mouth vinyl‑liner skimmer (8‑screw faceplate through the
+  liner, square deck lid with the Hayward logo). The common Hayward vinyl wide‑mouth
+  is the SP1085 family; confirm the number molded inside the body.
+- **Basket**: in place and mostly clean on 2026‑09‑08, light fine debris. The usual
+  replacement for this family is Hayward SPX1082CA; confirm before ordering.
+- **Lid**: two screw bosses in the body, no screws installed. Lids are usually left
+  unscrewed for daily basket access, but the lid must sit flat and secure; a missing or
+  cracked lid is a trip and foot‑entrapment hazard and the lid says so.
+- **Weir door**: no weir flap is visible in the mouth photo. A weir is the hinged
+  plastic door that floats at the surface, speeds the water skin into the skimmer, and
+  keeps debris from drifting back out when the pump stops. Check the throat with the
+  pump off. If it is missing or broken, replace it; it is a $15–25 snap‑in part matched
+  to the skimmer model, and it makes a real difference with pine needles.
+- **Water line**: right at mid‑opening in the photo. Correct.
+
 ### Skimmer water line
 
 `skimmer-mouth-and-return-closeup.jpg` shows the skimmer faceplate with the water
