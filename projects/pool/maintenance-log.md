@@ -11,6 +11,7 @@ Add a row for every reading and service event. Newest at the top.
 | Date | Event | Parts / product | Cost | Notes |
 |---|---|---|---|---|
 | 2026‑04‑18 | Heat pump manufactured | Pentair UltraTemp 110, P/N 460962, S/N 1003237020 | | Install date to confirm |
+| 2024‑01‑25 | Sand filter manufactured | Pentair Sand Dollar SD80, P/N 145386 | | Pool likely built early 2024 |
 
 ## Open questions to resolve
 
@@ -26,3 +27,4 @@ Add a row for every reading and service event. Newest at the top.
 - [ ] Confirm the small gray wall box is the iChlor power center
 - [ ] Confirm the white box on the stand is the GFCI receptacle
 - [ ] Builder's recommendation: keep open year‑round or winterize
+- [ ] Aiper robot exact model number from the underside label

@@ -17,7 +17,7 @@ the salt system; adjust brands to what is in stock.
 | Metal control | Metal sequestrant only if fill water tests positive for iron | |
 | Clarifier | Rarely needed with sand; a one‑time clarifier after an algae fight is fine | Flocculants unless vacuuming to WASTE |
 | Liner patch | Underwater vinyl patch kit (Boxer 4 oz or similar) in a light blue | |
-| Filter sand | #20 silica pool filter sand (or a glass media rated for this tank) | Play sand |
+| Filter sand | #20 silica pool filter sand, 350 lb for the SD80 (or glass media by volume) | Play sand |
 
 ## Lubricants and seals
 
@@ -50,8 +50,8 @@ the salt system; adjust brands to what is in stock.
 
 1. **Solar cover with a reel.** Biggest single energy saver with a heat pump and a
    60 °F night. A 12‑mil cover is fine; a reel keeps it from being a chore.
-2. **Robotic cleaner** rated for vinyl (Dolphin Nautilus CC Plus or Polaris Freedom
-   class). Saves the pump from running high speed to vacuum.
+2. ~~Robotic cleaner~~ Already owned: Aiper cordless. Budget for a replacement battery
+   in a few seasons rather than a new unit.
 3. **Leaf net/cover for fall** given the tree line.
 4. **Pentair ScreenLogic or IntelliConnect** if you want the pump, heater, and cell on
    a phone app; the pump's Ext. Control input is already there.

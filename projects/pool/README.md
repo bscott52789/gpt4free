@@ -20,8 +20,9 @@ service event so the history stays useful.
 | Sanitizer | Salt chlorine generator, Pentair iChlor, ideal salt 3600 ppm |
 | Heater | Pentair UltraTemp 110 heat pump, 110,000 BTU/hr, built 2026‑04‑18 |
 | Pump | Pentair SuperFlo VS, 230 V, 450–3450 rpm |
-| Filter | Pentair sand filter with top‑mount clamp‑style multiport valve |
+| Filter | Pentair Sand Dollar SD80, 350 lb sand, 2 in hybrid multiport valve, built 2024‑01‑25 |
 | Electrical | Square D Homeline 12‑space NEMA 3R subpanel at the pad |
+| Cleaner | Aiper cordless robotic cleaner (Scuba series) |
 | Water temp when documented | ~82 °F (owner reading), air high ~80 °F, low ~60 °F |
 
 ## Folder map
@@ -40,6 +41,7 @@ service event so the history stays useful.
 | `10-troubleshooting.md` | Symptom → cause → fix, by component |
 | `11-products.md` | Approved / recommended products and what to avoid |
 | `12-seasonal.md` | Fall shoulder season, winterizing, spring opening |
+| `13-robotic-cleaner.md` | Aiper robot use, battery care, troubleshooting |
 | `maintenance-log.md` | Running log of readings and service |
 | `photos/` | Labeled photos from the walk‑around |
 

@@ -3,6 +3,27 @@
 Photos: `filter-multiport-and-pump.jpg`, `filter-pressure-gauge.jpg`,
 `multiport-clamp-warning.jpg`.
 
+## Nameplate
+
+Photo: `filter-sand-dollar-label.jpg`.
+
+| Field | Value |
+|---|---|
+| Model | Pentair **Sand Dollar SD80** with 2 in hybrid multiport valve |
+| P/N | 145386 |
+| Serial / date | 0107025240005Z, built **2024‑01‑25** |
+| Sand charge | **350 lb** of #20 silica (from the SD‑80 column on the label) |
+| Max flow | ~75 GPM per the label column |
+| Max working pressure | 50 psi |
+| Tank | 26 in diameter, roughly 3.1 sq ft of filter area |
+
+The 2024 build date on the filter and the 2026 build date on the heat pump say the
+pool went in around early 2024 and the heat pump was added or replaced in spring 2026.
+
+Sizing check: at the pump's everyday speed the system moves well under 75 GPM, so the
+filter is not the bottleneck. Sand filters clean best at 15 GPM per sq ft or less,
+about 45 GPM here, which is another argument for running the pump slower and longer.
+
 ## What it is
 
 Pentair top‑mount sand filter (tan tank) with a clamp‑style multiport valve. Water
@@ -60,6 +81,6 @@ the clamp. You only open it to service the valve or change sand.
 ## Sand replacement
 
 Every 5–7 years, or when channeling shows up (pressure never rises, water never
-clears). Use #20 silica pool filter sand or a glass media rated for the tank. Do not
-use play sand. Protect the laterals when refilling by filling the tank half with water
+clears). This tank takes **350 lb** (seven 50 lb bags) of #20 silica pool filter sand,
+or the glass‑media equivalent by volume. Do not use play sand. Protect the laterals when refilling by filling the tank half with water
 first.
