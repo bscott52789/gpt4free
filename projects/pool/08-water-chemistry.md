@@ -8,7 +8,7 @@
 | Combined chlorine | < 0.5 ppm | Higher means chloramines; run BOOST or shock |
 | pH | 7.4–7.6 | Salt cells drive pH **up** constantly; expect to add acid |
 | Total alkalinity | 60–80 ppm | Lower than a traditional pool to slow pH rise |
-| Calcium hardness | 150–300 ppm (fiberglass) | Too high scales the cell and heat exchanger |
+| Calcium hardness | 150–250 ppm (vinyl liner) | Too high scales the cell and heat exchanger; too low is harmless to vinyl |
 | Cyanuric acid (CYA) | 50–80 ppm | Salt pools run higher CYA so FC survives sun |
 | Salt | 3200–3800 ppm, ideal 3600 | Per the iChlor label |
 | Phosphates | < 500 ppb | Algae food; matters only if algae is a recurring fight |
@@ -33,7 +33,7 @@
 | Salt up 100 ppm | ~8.3 lb pool salt |
 | CH up 10 ppm | ~1.25 lb calcium chloride |
 
-Working volume is ~17,500 gal, so multiply each dose by **1.75** until the pool is measured (`01-pool-structure.md`).
+Working volume is ~19,500 gal (18 x 36, 3–6 ft), so multiply each dose by **1.95**, or just double it for rough work.
 
 ## The salt‑pool pH cycle
 
@@ -44,7 +44,7 @@ is typical for this size pool.
 
 ## Shocking
 
-A salt pool rarely needs granular shock. Options in order of preference:
+A salt pool rarely needs granular shock. On a vinyl liner, never let undissolved granules touch the floor. Options in order of preference:
 1. BOOST on the iChlor for 24 hrs of pump time.
 2. Liquid chlorine (10–12.5%) to raise FC to about 40% of CYA.
 3. Avoid cal‑hypo (adds calcium) and trichlor pucks (adds CYA and acid) except as a

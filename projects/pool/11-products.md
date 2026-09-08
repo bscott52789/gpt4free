@@ -1,7 +1,7 @@
 # 11 — Approved products
 
-Everything on this pad is Pentair and the pool appears to be fiberglass. Buy
-accordingly. "Approved" here means chosen for compatibility with this equipment and
+Everything on this pad is Pentair and the pool is most likely a vinyl liner (18 x 36).
+Buy accordingly. "Approved" here means chosen for compatibility with this equipment and
 the salt system; adjust brands to what is in stock.
 
 ## Consumables
@@ -13,9 +13,10 @@ the salt system; adjust brands to what is in stock.
 | Chlorine supplement | Liquid chlorine 10–12.5% (pool store or Pool Essentials/HDX 10%) | Cal‑hypo (raises CH); trichlor pucks except in winter |
 | Stabilizer | Cyanuric acid granular, dissolved in a sock in front of a return | Liquid stabilizer is fine but pricey |
 | Calcium | Calcium chloride (only if CH < 150) | |
-| Algaecide | Skip unless fighting an outbreak; if needed, polyquat 60 | Copper algaecides (stain fiberglass) |
+| Algaecide | Skip unless fighting an outbreak; if needed, polyquat 60 | Copper algaecides (stain liners) |
 | Metal control | Metal sequestrant only if fill water tests positive for iron | |
 | Clarifier | Rarely needed with sand; a one‑time clarifier after an algae fight is fine | Flocculants unless vacuuming to WASTE |
+| Liner patch | Underwater vinyl patch kit (Boxer 4 oz or similar) in a light blue | |
 | Filter sand | #20 silica pool filter sand (or a glass media rated for this tank) | Play sand |
 
 ## Lubricants and seals
@@ -42,14 +43,14 @@ the salt system; adjust brands to what is in stock.
 | Skimmer basket and pump basket | They crack |
 | Pressure gauge, 0–60 psi, 1/4" NPT | They die; keep a spare |
 | Winter plugs and a gizmo for the skimmer | For closing |
-| Telescoping pole, leaf rake, wall brush (nylon), vacuum head for fiberglass, hose | Weekly tools |
+| Telescoping pole, leaf rake, wall brush (nylon), vinyl‑liner vacuum head (brush type, no wheels), hose | Weekly tools |
 | Silicone lube, Teflon tape, spare unions | |
 
 ## Larger buys, in priority order
 
 1. **Solar cover with a reel.** Biggest single energy saver with a heat pump and a
    60 °F night. A 12‑mil cover is fine; a reel keeps it from being a chore.
-2. **Robotic cleaner** rated for fiberglass (Dolphin Nautilus CC Plus or Polaris Freedom
+2. **Robotic cleaner** rated for vinyl (Dolphin Nautilus CC Plus or Polaris Freedom
    class). Saves the pump from running high speed to vacuum.
 3. **Leaf net/cover for fall** given the tree line.
 4. **Pentair ScreenLogic or IntelliConnect** if you want the pump, heater, and cell on

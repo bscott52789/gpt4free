@@ -14,8 +14,8 @@ Add a row for every reading and service event. Newest at the top.
 
 ## Open questions to resolve
 
-- [ ] Exact pool dimensions and gallons (owner recalls 16x32, 18x32, or 18x36; 3–6 ft deep; working number 17,500 gal)
-- [ ] Confirm fiberglass vs vinyl liner (18 ft wide → almost certainly liner)
+- [x] Pool dimensions: 18 x 36 ft, 3–6 ft deep (owner count, 2026‑09‑08); working volume 19,500 gal
+- [ ] Confirm vinyl liner vs fiberglass from builder docs (18 ft wide strongly suggests liner); record liner brand and mil
 - [ ] Verify Speed 1 daily duration; 2:07 on the display would be far too short
 - [ ] Shell manufacturer and warranty terms (draining rules, approved chemicals)
 - [ ] Number of skimmers and returns

@@ -12,8 +12,8 @@
 
 Two options in central Virginia:
 
-**Option A: keep it open year‑round.** Common with fiberglass and a variable‑speed
-pump. Run the pump at low speed continuously whenever air is forecast below 32 °F
+**Option A: keep it open year‑round.** Workable with a variable‑speed pump and a
+liner that stays full. Run the pump at low speed continuously whenever air is forecast below 32 °F
 (moving water does not freeze in the pipes). The heat pump must still be **drained**
 or bypassed and its plugs pulled for freeze protection per the manual. The iChlor
 stops below ~52 °F water, so add a small amount of liquid chlorine weekly or a trichlor
@@ -23,8 +23,9 @@ puck in the skimmer.
 1. Balance water: pH 7.4–7.6, FC 3–5, TA 70–90.
 2. Clean the pool thoroughly. Backwash, then set the multiport between positions
    (WINTER).
-3. Lower water to just below the returns for a fiberglass pool only if the builder
-   says so; many fiberglass builders want the water kept full. **Ask the builder.**
+3. Lower water 4–6 inches below the skimmer mouth, never below the returns' plugs
+   once they are in. A vinyl liner must stay mostly full all winter. **Ask the
+   builder** for their exact level.
 4. Blow out the lines from the pad with a blower or compressor, plug returns and
    skimmer (gizmo), pour non‑toxic pool antifreeze into skimmer lines.
 5. Drain the pump (both plugs), filter (bottom drain), heat pump (drain plugs, both

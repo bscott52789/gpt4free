@@ -56,7 +56,8 @@ equipment third.
 | Yellow/mustard on shady walls | Mustard algae | Same as green but higher FC for longer; brush daily. |
 | Chlorine smell, stinging eyes | Chloramines (combined chlorine) | Shock; the smell is not "too much chlorine," it is not enough. |
 | Brown/black stains | Metals or organic debris | Vitamin C tablet test: if it lifts, it's iron; use a metal sequestrant. |
-| White crust at waterline or on cell | Calcium scale | Lower pH/CH; scale remover pads on gelcoat only if rated for fiberglass. |
+| White crust at waterline or on cell | Calcium scale | Lower pH/CH; use a vinyl‑safe tile and liner cleaner at the waterline. |
+| Water level dropping > 1/4 in/day | Liner or fitting leak | Bucket test; dye test around skimmer, returns, light niche, and step seams. |
 
 ## Electrical
 
@@ -72,5 +73,5 @@ DIY: baskets, backwash, o‑rings, shaft seal, sand change, cell cleaning, salt 
 chemical dosing, breaker and GFCI checks, valve settings, pump programming.
 
 Call: anything under the heat pump cabinet involving refrigerant, compressor, or
-control board; a fiberglass shell drain; a persistent bonding or stray‑voltage
+control board; any full drain of a liner pool; a persistent bonding or stray‑voltage
 issue; a leak you cannot find in a day.
