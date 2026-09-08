@@ -96,15 +96,35 @@ Photos: `skimmer-shallow-end-mouth.jpg`, `skimmer-shallow-end-lid-hayward.jpg`,
   to the skimmer model, and it makes a real difference with pine needles.
 - **Water line**: right at mid‑opening in the photo. Correct.
 
+### Returns
+
+Photo: `return-eyeball-shallow-end.jpg`. A standard 1‑1/2 in wall return with a
+threaded directional eyeball, about a foot below the surface on the wall across from
+the shallow‑end skimmer. Owner notes it currently blows **up and out** toward the
+surface.
+
+How to aim them:
+- Grab the eyeball and rotate it by hand; the ridged ring unscrews if you ever want to
+  swap eyeball sizes (a smaller opening gives a faster jet).
+- Aim every return the **same rotational direction** around the pool so the water
+  turns in one slow circle and carries floating debris past the skimmer mouths.
+- Aim **slightly down**, not up. An upward jet ripples the surface, which looks like
+  it is helping, but it mostly speeds evaporation and heat loss and leaves the floor
+  unstirred. The salt cell's chlorine and the heat pump's warmth both ride the returns,
+  so pointing them down mixes the whole depth.
+- Exception: one return may be aimed level toward the nearest skimmer if leaves tend
+  to collect in a dead corner.
+
+Count and record all returns; the docs have one confirmed here and one seen earlier
+near the deck skimmer lid in the long‑wall photos.
+
 ### Skimmer water line
 
 `skimmer-mouth-and-return-closeup.jpg` shows the skimmer faceplate with the water
 sitting a little above the midpoint of the opening. That is the right zone. If the
 water reaches the top screws of the faceplate the skimmer stops pulling surface film;
-if it drops to the bottom of the opening the pump starts drawing air. The return
-eyeball sits about a foot along the wall from this skimmer; aim eyeballs slightly
-down and all in the same rotational direction so debris circulates toward the
-skimmers instead of collecting in a dead corner.
+if it drops to the bottom of the opening the pump starts drawing air. See the Returns
+section above for eyeball aiming.
 
 Every inch of water level on an 18 x 36 pool is about **400 gallons**
 (18 × 36 × 1/12 × 7.48). So the 5 inch swing is roughly 2,000 gallons, about 10% of
